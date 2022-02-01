@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:ores/quartz"
+    },
+    "2": {
+      "tag": "forge:ores/quartz"
+    },
+    "3": {
+      "tag": "forge:ores/quartz"
+    },
+    "4": {
+      "tag": "forge:ores/quartz"
+    },
+    "6": {
+      "tag": "forge:ores/quartz"
+    },
+    "7": {
+      "tag": "forge:ores/quartz"
+    },
+    "8": {
+      "tag": "forge:ores/quartz"
+    }
+  },
+  "result": {
+    "item": "trident_crafting_and_structures:tridenttop",
+    "count": 8
+  }
+}

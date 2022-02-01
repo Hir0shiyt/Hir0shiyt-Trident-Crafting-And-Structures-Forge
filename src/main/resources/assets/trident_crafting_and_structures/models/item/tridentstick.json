@@ -1,0 +1,7 @@
+{
+  "parent": "trident_crafting_and_structures:custom/trident_stick_3d_model",
+  "textures": {
+    "0": "trident_crafting_and_structures:blocks/trident_stick_3d_model",
+    "particle": "trident_crafting_and_structures:items/trident_stick"
+  }
+}

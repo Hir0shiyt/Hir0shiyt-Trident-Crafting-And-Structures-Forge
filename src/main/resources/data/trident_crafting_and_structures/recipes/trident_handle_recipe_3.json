@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "1": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "2": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "3": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "6": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "7": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "8": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "trident_crafting_and_structures:trident_handle",
+    "count": 1
+  }
+}

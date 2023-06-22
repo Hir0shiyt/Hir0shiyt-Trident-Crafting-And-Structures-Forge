@@ -1,0 +1,7 @@
+{
+  "parent": "trident_crafting_and_structures:custom/trident_handle_3d_model",
+  "textures": {
+    "0": "trident_crafting_and_structures:block/trident_handle_3d_model",
+    "particle": "trident_crafting_and_structures:item/trident_handle_gui"
+  }
+}

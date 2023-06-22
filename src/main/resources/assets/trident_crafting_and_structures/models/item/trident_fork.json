@@ -1,0 +1,8 @@
+{
+  "parent": "trident_crafting_and_structures:custom/trident_fork_3d_model",
+  "textures": {
+    "0": "trident_crafting_and_structures:block/trident_fork_3d_model",
+    "missing": "trident_crafting_and_structures:block/",
+    "particle": "trident_crafting_and_structures:item/trident_fork_gui"
+  }
+}

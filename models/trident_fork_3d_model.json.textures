@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "trident_fork_3d_model",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
